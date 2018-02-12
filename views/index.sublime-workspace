@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"cl",
+				"Click"
+			],
+			[
+				"c",
+				"Click"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"style",
+				"styleExt"
+			],
+			[
+				"quetion",
+				"quetions"
+			],
+			[
+				"arr",
+				"array2"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"U",
+				"username"
+			],
+			[
+				"body",
+				"bodyparser"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"hi",
+				"Hide"
+			],
+			[
+				"sh",
+				"Show"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"get",
+				"getProfile"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"form",
+				"formSubmit"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/project/passportapp/app.js",
+		"/C/project1/angularproject/systemjs.config.js",
+		"/C/project1/angularproject/app/app.component.ts",
+		"/C/project1/angularproject/app/app.module.ts",
+		"/C/project1/angularproject/app/index.html",
+		"/C/Sites/todo/Gemfile",
+		"/C/project1/angularproject/typings.json",
+		"/C/project1/angularproject/package.json",
+		"/C/Users/pdhru/Desktop/Express/app.js",
+		"/C/Sites/todo/app/views/layouts/application.html.erb",
+		"/C/Users/pdhru/Dhrutiprojectf/my-first-app/src/app/header/header.component.ts",
+		"/C/Users/pdhru/Dhrutiprojectf/my-first-app/.angular-cli.json",
+		"/C/Users/pdhru/Dhrutiprojectf/my-first-app/src/app/app.module.ts",
+		"/C/Users/pdhru/Dhrutiprojectf/my-first-app/src/app/app.component.ts",
+		"/C/Users/pdhru/Dhrutiprojectf/my-first-app/src/index.html",
+		"/C/Users/pdhru/Dhrutiprojectf/my-first-app/src/app/app.component.html",
+		"/C/Users/pdhru/Dhrutiprojectf/my-first-app/src/main.ts",
+		"/C/Users/pdhru/Dhrutiprojectf/my-first-app/src/app/app.component.css",
+		"/C/Users/pdhru/Dhrutiprojectf/my-first-app/src/test.ts",
+		"/C/project1/angularproject/tsconfig.json",
+		"/C/project/passportapp/routes/index.js",
+		"/C/project/passportapp/views/includes/footer.ejs",
+		"/C/project/passportapp/views/includes/header.ejs",
+		"/C/project/passportapp/views/register.ejs",
+		"/C/project/passportapp/views/login.ejs",
+		"/C/project/passportapp/views/index.ejs",
+		"/C/project/passportapp/public/css/style.css",
+		"/C/Users/pdhru/project/quicktodosp/client/main.html",
+		"/C/project/passportapp/package.json",
+		"/C/Users/pdhru/Desktop/nodeserver/server.js",
+		"/C/Users/pdhru/Desktop/javascript/formjquery.html",
+		"/C/Users/pdhru/Desktop/javascript/newjquery.html",
+		"/C/Users/pdhru/Desktop/nodeserver/package.json",
+		"/C/Users/pdhru/Desktop/nodeserver/express.json",
+		"/C/Users/pdhru/Desktop/javascript/dommanipulation.html",
+		"/C/Users/pdhru/Desktop/hello.js",
+		"/C/Users/pdhru/Desktop/Express/package.json",
+		"/C/Users/pdhru/Desktop/coffeetech_slider/sliderjquery.html",
+		"/C/Users/pdhru/Desktop/Simple/javas.html",
+		"/C/Users/pdhru/Desktop/javascript/file.txt",
+		"/C/Users/pdhru/Desktop/bootstrap/popup.html",
+		"/C/Users/pdhru/Desktop/bootstrap/FirstBootstrap.html",
+		"/C/Users/pdhru/Desktop/javascript/project.html",
+		"/C/Users/pdhru/Desktop/javascript/githubp.html",
+		"/C/Users/pdhru/Desktop/javascript/index.html",
+		"/C/Users/pdhru/Desktop/formValidation.html",
+		"/C/Users/pdhru/Desktop/Js.html",
+		"/C/Users/pdhru/Desktop/Simple/about.html",
+		"/C/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+		"/C/Users/pdhru/Desktop/ajax.html",
+		"/C/Users/pdhru/Desktop/style.css",
+		"/C/Users/pdhru/Desktop/read.html",
+		"/C/Users/pdhru/Desktop/contact.html",
+		"/C/Users/pdhru/Desktop/practise.html",
+		"/C/Users/pdhru/Desktop/about.html",
+		"/C/Users/pdhru/Desktop/services.html",
+		"/C/Users/pdhru/Desktop/sec.html",
+		"/C/Users/pdhru/Desktop/Index.html.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"passportapp",
+			"username",
+			"model",
+			"modal",
+			"model",
+			"Heading"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"modal",
+			"model",
+			"modal"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 365.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
